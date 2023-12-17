@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Huli\Mini games\Mini games\bin\Debug\Mini games.exe.config
+C:\Users\user\Desktop\Huli\Mini games\Mini games\bin\Debug\Mini games.exe
+C:\Users\user\Desktop\Huli\Mini games\Mini games\bin\Debug\Mini games.pdb
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini games.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini_games.Form1.resources
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini_games.Properties.Resources.resources
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini games.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini games.exe
+C:\Users\user\Desktop\Huli\Mini games\Mini games\obj\Debug\Mini games.pdb
+C:\Users\user\Desktop\Mini games\Mini games\bin\Debug\Mini games.exe.config
+C:\Users\user\Desktop\Mini games\Mini games\obj\Debug\Mini games.exe
+C:\Users\user\Desktop\Mini games\Mini games\obj\Debug\Mini games.pdb
